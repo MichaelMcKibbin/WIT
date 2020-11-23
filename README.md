@@ -1,2 +1,3 @@
 # WIT
-Applied Computing Repository
+# Applied Computing Repository
+# First git repository
